@@ -13,14 +13,14 @@ export const PROJECTS: Project[] = [
     title: "E-commerce",
     description: "Advanced e-commerce platform with interactive data visualizations for sales analytics.",
     tags: ["React", "TypeScript", "CSS"],
-    image: "./utils/ecommerce.png",
+    image: "https://i.ibb.co/4ZJnvmXw/ecommerce.png",
     link: "https://github.com/Sawera-Malik/E-commerce.git"
   },
   {
     id: 2,
     title: "Weather App",
     description: "Weather forecasting app with real-time updates and dynamic UI based on weather conditions.",
-    image: "./utils/weather.png",
+    image: "https://i.ibb.co/KpDqyp6C/weather.png",
     tags: ["python", "django", "CSS"],
     link: "https://github.com/Sawera-Malik/Weather-app.git"
   },
@@ -29,7 +29,7 @@ export const PROJECTS: Project[] = [
     title: "Breakout Game",
     description: "Interactive Breakout game with dynamic brick layouts and score tracking features.",
     tags: ["Javascript", "CSS", "HTML"],
-    image: "./utils/breakout.png",
+    image: "https://i.ibb.co/TDsvzv22/breakout.png",
     link: "https://github.com/Sawera-Malik/Break-out-game.git"
   }
 ];
